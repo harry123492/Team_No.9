@@ -1,0 +1,64 @@
+html, body{
+    width: 100%;
+    height: 100%;
+    margin : 0;
+}
+.jg{
+    text-align: center;
+}
+.nemo{
+    height: 40px;
+    width: 400px;
+    border: 1px solid #1b5ac2;
+    background: #ffffff;
+    left: 50%;
+    margin: 0 auto;
+}
+input{
+    font-size: 16px;
+    width: 325px;
+    padding: 10px;
+    border: 0px;
+    outline: none;
+    float: left;
+}
+.bt1{
+    width: 50px;
+    height: 100%;
+    border: 0px;
+    background: #1b5ac2;
+    outline: none;
+    float: right;
+    color: #ffffff;
+}
+.menu{
+    margin-top: 2%;
+    background: #ffffff;
+    text-align: center;
+}
+.bt2 {
+    background: #ffffff;
+    border: 0px;
+    color: #1b5ac2;
+    font-size: 20px;
+    font-weight: bold;
+}
+.im {
+    margin-top: 10px;
+    text-align: center;
+}
+.im2 {
+    margin-top: 0px;
+    display: inline-block;
+}
+.im3 {
+    margin-top: -10px;
+    display: inline-block;
+}
+figure {
+    display: inline-block;
+    margin-right: -20px;
+}
+
+
+
